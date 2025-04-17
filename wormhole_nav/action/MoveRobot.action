@@ -1,0 +1,12 @@
+# action/NavigateMultiMap.action
+
+float64 goal_x
+float64 goal_y
+float64 goal_yaw
+string target_map
+---
+bool success
+string message
+---
+string status
+
